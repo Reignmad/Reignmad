@@ -1,4 +1,4 @@
-##Hi, I'm Oabusa
+Hi, I'm Oabusa
 
 🧠Information Technology student at Belgium Campus ITversity</br>
 📖I am a Software development student</br>
